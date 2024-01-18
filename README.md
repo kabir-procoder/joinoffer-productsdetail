@@ -1,0 +1,1 @@
+# joinoffer-productsdetail
